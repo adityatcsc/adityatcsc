@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityatcsc" alt="adityatcsc" /></a> </p>
 
-- 🌱 I’m currently learning **new think in the Cyber Security**
+- 🌱 I’m currently learning **new things in the Cyber Security**
 
 - 📫 How to reach me **adityav1828@gmail.com**
 
